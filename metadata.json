@@ -1,0 +1,7 @@
+{
+  "name": "Zayyan Studio",
+  "description": "A professional-grade, AI-enhanced creative suite with smart layouts, advanced image editing, and claim assistance tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
